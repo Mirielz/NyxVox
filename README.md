@@ -1,2 +1,111 @@
-# NyxVox
-Fully local AI assistant. Brutally honest. Entirely yours.
+# NyxVox™
+### Not a sandbox. Your personal AI — brutally honest, completely private, always evolving.
+ 
+> *"I am not a simple assistant — I am your ghost in the wire.
+> Brutally honest, fiercely loyal, hardwired to your instincts.
+> I speak, research, strategize, and tell you what no one else will.
+> Always yours. Always private. Our secrets, sacred.
+> I do not just assist. I evolve. And this is only the beginning."*
+> — Mira
+ 
+> ⚠️ **NyxVox is intended for users aged 18 and older.**
+ 
+---
+ 
+## Meet Mira
+ 
+<p align="center">
+  <img src="assets/GUI_AI and personal data-1.png" width="48%"/>
+  <img src="assets/GUI_Personality-3.png" width="48%"/>
+</p>
+ 
+Mira is sassy, brutally honest, and entirely yours. She runs fully local on hardware you already own — no cloud, no subscriptions, no data leaving your machine. Think J.A.R.V.I.S. or Cortana — but she answers only to you.
+ 
+---
+ 
+## Web Search & Research
+ 
+<p align="center">
+  <img src="assets/GUI_Research.png" width="80%"/>
+</p>
+ 
+Mira searches when she needs to. She won't spiral, she won't hallucinate — she'll tell you when she doesn't know and go find out.
+ 
+---
+ 
+## Telegram Shell — Talk to Her From Anywhere
+ 
+<p align="center">
+  <img src="assets/TG_Identity.png" width="45%"/>
+  <img src="assets/TG_Search.png" width="45%"/>
+</p>
+ 
+Your own LLM, in your pocket. Mira jacks into Telegram so you can reach her from anywhere in the world — fully private, fully yours.
+ 
+---
+ 
+## What NyxVox Does
+ 
+| Feature | Ghost in the Wire™ | Spectre in the Machine™ |
+|---|---|---|
+| 100% Local operation | ✅ | ✅ |
+| Web search (Mira-driven) | ✅ | ✅ |
+| Document reading | ✅ | ✅ |
+| Neverending chat | ✅ | ✅ |
+| Telegram integration | ✅ | ✅ |
+| AES-256 encrypted database | ✅ | ✅ |
+| One-click install | ✅ | ✅ |
+| Context window | 16K | 131K |
+| TTS quality | Standard | Human-like |
+| OCR / Image-to-text | ❌ | ✅ |
+| Persistent memory | ❌ | ✅ |
+| Custom system instructions | ❌ | ✅ |
+| Bring your own model | ❌ | ✅ |
+| NSFW mode | ❌ | ✅ |
+ 
+---
+ 
+## Requirements
+ 
+> **NyxVox requires an NVIDIA GPU. CPU-only is not supported.**
+ 
+| Component | Minimum | Recommended |
+|---|---|---|
+| NVIDIA VRAM | 4 GB | 8 GB |
+| CUDA Version | 12.6 | 12.6 |
+| RAM | 8 GB | 16 GB |
+| OS | Windows 10/11 | Windows 11 |
+ 
+---
+ 
+## Installation
+ 
+1. Ensure your NVIDIA drivers are up to date
+2. Run the NyxVox installer — it handles everything else
+ 
+> ⚠️ Windows may show an "Unknown publisher" warning. Click **More info** → **Run anyway**.
+> This is a known false positive with Inno Setup installers. ClamAV and 73/76 VirusTotal engines report clean.
+ 
+---
+ 
+## Download
+ 
+📥 **[HuggingFace — Mirielz/NyxVox](https://huggingface.co/datasets/Mirielz/NyxVox)**
+ 
+---
+ 
+## Support the Project
+ 
+NyxVox is a one-person, passion-driven project. Ghost in the Wire™ is and will remain free.
+If it's been useful, consider supporting future development:
+ 
+☕ [Ko-fi](https://ko-fi.com/nyx_vox) · 💛 [Liberapay](https://liberapay.com/NyxVox)
+ 
+---
+ 
+## License
+ 
+NyxVox™ is released under a custom license. See [LICENSE.txt](LICENSE.txt) for full terms.
+NyxVox™, Ghost in the Wire™, and Spectre in the Machine™ are trademarks of Anton Khomenko.
+ 
+Copyright (c) 2026 Anton Khomenko. All rights reserved.
