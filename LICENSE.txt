@@ -1,0 +1,578 @@
+================================================================================
+NYXVOX™ SOFTWARE LICENSE AGREEMENT
+================================================================================
+
+Copyright (c) 2026 Anton Khomenko. All rights reserved.
+NyxVox™, Ghost in the Wire™, and Spectre in the Machine™ are trademarks of
+Anton Khomenko.
+Product: NyxVox™
+Editions: Ghost in the Wire™ | Spectre in the Machine™
+License Version: 1.0 — 2026
+
+--------------------------------------------------------------------------------
+1. GRANT OF LICENSE
+--------------------------------------------------------------------------------
+
+The Ghost in the Wire edition is provided free of charge for personal and
+commercial use. The Spectre in the Machine edition requires a valid paid license
+key. Subject to the terms of this agreement, you are granted a non-exclusive,
+non-transferable, revocable license to use this software in its provided,
+unmodified form.
+
+--------------------------------------------------------------------------------
+2. RESTRICTIONS
+--------------------------------------------------------------------------------
+
+You may NOT:
+  a) Modify, adapt, alter, translate, or create derivative works of this
+     software or any part thereof.
+  b) Reverse engineer, disassemble, decompile, or attempt to derive the
+     source code of this software, except to the extent that such restriction 
+	 is prohibited by applicable law or the underlying licenses of LGPL 
+	 components.
+  c) Circumvent, disable, or bypass any encryption, license key validation, or 
+	 security measures used to protect or unlock the Spectre in the Machine 
+	 features.
+  d) Redistribute, sublicense, sell, rent, lease, or transfer this software
+     or any part thereof in modified form. Redistribution of the original,
+     unmodified base package is permitted provided this license file is
+     included in full and no fees are charged. The Spectre in the Machine
+     features remain encrypted and are only accessible via a valid license
+     key; redistribution of the base package does not grant any right to
+     those features.
+  e) Remove, alter, or obscure any proprietary notices, labels, or marks
+     on or in the software.
+  f) Use this software to develop a competing product or service.
+  g) Use this software, or any outputs it produces, for the purpose of training,
+     fine-tuning, or otherwise improving any machine learning or AI model without
+     the express written consent of the Author.
+  h) Use this software for automated scraping, bulk data collection, or any
+     pipeline that aggregates AI-generated outputs without the Author's express
+     written consent.
+
+--------------------------------------------------------------------------------
+3. SPECTRE IN THE MACHINE VERSION
+--------------------------------------------------------------------------------
+
+Certain features of NyxVox are available exclusively in the Spectre in the
+Machine version. Unauthorized access to, unlocking of, or simulation of
+Spectre in the Machine features without a valid license is strictly prohibited.
+
+License keys are issued to the individual purchaser and are non-transferable.
+You may not share, sell, or otherwise transfer your license key to any third
+party, except where expressly authorized in writing by the Author.
+
+The Author reserves the right to revoke any license key in the event of a
+violation of this Agreement, without refund or prior notice.
+
+Parties interested in becoming authorized distributors of the Spectre in the
+Machine edition should contact the Author directly at nyxvoxai@gmail.com.
+
+--------------------------------------------------------------------------------
+4. DISCLAIMER OF WARRANTIES
+--------------------------------------------------------------------------------
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL
+THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM
+THE USE OF THIS SOFTWARE, INCLUDING ANY AI-GENERATED CONTENT, INACCURACIES
+IN AI OUTPUTS, OR DAMAGES ARISING FROM USE OF THIRD-PARTY INTEGRATIONS.
+
+--------------------------------------------------------------------------------
+5. INDEMNIFICATION
+--------------------------------------------------------------------------------
+
+By using NyxVox, you agree to indemnify, defend, and hold harmless the Author
+from and against any and all claims, liabilities, damages, losses, or expenses
+(including reasonable attorneys' fees) arising out of or in any way connected
+with:
+  a) Your access to or use of the software.
+  b) Any content you generate, transmit, or display using the software.
+  c) Your violation of this Agreement or any third-party right, including
+     intellectual property or privacy rights.
+
+--------------------------------------------------------------------------------
+6. AGE RESTRICTION & CONTENT DISCLAIMER
+--------------------------------------------------------------------------------
+
+This software is intended for users aged 18 years or older. By using this
+software, you confirm that you are at least 18 years of age. If you are under
+18, you are not permitted to use this software.
+
+NyxVox utilizes Large Language Models (LLMs) that may generate raw, unfiltered,
+or "uncensored" content. This includes, but is not limited to:
+  a) Strong language and profanity.
+  b) Mature or suggestive themes.
+  c) Content that may be considered offensive, shocking, or politically
+     incorrect.
+
+The Author does not pre-screen or "safety-filter" AI outputs. You acknowledge
+that you use this software at your own risk. If you are sensitive to mature
+themes, are in a restrictive jurisdiction, or are in a sensitive environment,
+you use this software at your own discretion and risk. The Author assumes no
+liability for emotional distress, offense, or legal repercussions resulting
+from the generation of mature content.
+
+By using this software, you further acknowledge and accept that:
+  d) AI-generated content is not curated or pre-screened by the Author.
+  e) The Author is not responsible for any content produced by or through
+     this software, including content generated via third-party integrations.
+  f) Users are solely responsible for how they use, share, or act upon any
+     content produced by this software.
+  g) The Author reserves the right to update content guidelines in future
+     releases.
+  h) Users may not use this software to generate content that is illegal
+     in their jurisdiction, including but not limited to content that
+     violates local laws regarding hate speech, obscenity, or AI-generated
+     material. The Author assumes no liability for illegal content generated
+     by users.
+
+--------------------------------------------------------------------------------
+7. AI-GENERATED CONTENT
+--------------------------------------------------------------------------------
+
+NyxVox utilizes AI-generated assets, including but not limited to:
+
+  a) Images: Some visuals within this software are AI-generated and do not
+     represent real persons, places, or events unless explicitly stated.
+  b) Text-to-Speech (TTS): All voice output is AI-generated.
+
+The Author makes no claims of authenticity, accuracy, or fitness for any
+particular purpose regarding AI-generated content. Such content is provided
+for entertainment and utility purposes only.
+
+--------------------------------------------------------------------------------
+8. AI DISCLAIMER / NO RELIANCE
+--------------------------------------------------------------------------------
+
+NyxVox incorporates large language model (LLM) technology. All AI-generated
+responses, suggestions, or outputs are provided for informational and
+entertainment purposes only.
+
+  a) AI outputs may be inaccurate, incomplete, or misleading. The user bears
+     full responsibility for any decisions made based on AI-generated content.
+  b) This software does not constitute professional advice of any kind,
+     including but not limited to legal, medical, financial, or psychological
+     advice.
+  c) The Author shall not be held liable for any harm, loss, or damages
+     arising from reliance on AI-generated outputs.
+
+The user — not the AI — makes the final call.
+
+--------------------------------------------------------------------------------
+9. THIRD-PARTY INTEGRATIONS
+--------------------------------------------------------------------------------
+
+NyxVox may be accessed through third-party shell interfaces, including but
+not limited to Telegram. Use of such integrations is subject to the respective
+third-party's own terms of service and privacy policy.
+
+  a) Messages and interactions conducted via third-party integrations may be
+     transmitted through and processed by those third-party platforms. The
+     author has no control over, and accepts no responsibility for, how those
+     platforms handle your data.
+  b) The author is not affiliated with, endorsed by, or responsible for any
+     third-party integration platform.
+  c) Users are advised to review the terms and privacy policies of any
+     third-party platform they use to access NyxVox.
+
+--------------------------------------------------------------------------------
+10. DATA & PRIVACY
+--------------------------------------------------------------------------------
+
+NyxVox's core processing occurs locally on the user's machine, whether
+accessed via the desktop interface or a third-party shell. The author
+does not collect, transmit, or store any user conversation data, inputs,
+or outputs. Third-party integrations (see §9) operate under their own
+terms and are outside the author's control.
+
+  a) Local operation: All processing occurs locally. The author has no
+     access to your data, conversations, or usage patterns. License key
+     validation for the Spectre in the Machine edition requires a network
+     request to verify your key; this process transmits only your license
+     key and account identifier. No conversation data, inputs, or outputs
+     are ever transmitted to the Author.
+  b) Third-party integrations: Data transmitted through third-party shells
+     (e.g. Telegram) is subject to those platforms' own privacy policies.
+  c) External LLM APIs: Should any future edition of NyxVox incorporate
+     external AI API services (e.g. cloud-based language model providers),
+     any data transmitted to such services will be clearly disclosed prior
+     to use. Users will be notified and given the opportunity to opt out
+     before any such feature is enabled.
+
+--------------------------------------------------------------------------------
+11. TERMINATION
+--------------------------------------------------------------------------------
+
+This license is effective until terminated. It will terminate automatically
+if you fail to comply with any term of this agreement. Upon termination, you
+must cease all use and destroy all copies of the software. For questions
+regarding termination or compliance, contact the Author at nyxvoxai@gmail.com.
+
+--------------------------------------------------------------------------------
+12. GOVERNING LAW
+--------------------------------------------------------------------------------
+
+This agreement shall be governed by the laws of the State of California,
+United States, without regard to its conflict of law provisions. Any disputes
+arising under this agreement shall be subject to the exclusive jurisdiction
+of the courts located in the State of California.
+
+--------------------------------------------------------------------------------
+13. GDPR & INTERNATIONAL USERS
+--------------------------------------------------------------------------------
+
+NyxVox is developed by an individual author and is not an EU-established
+entity. However, the author acknowledges the rights of international users,
+including those protected under the General Data Protection Regulation (GDPR).
+
+  a) No data collection: As NyxVox's core processing occurs locally, the
+     author does not collect, process, or store any personal conversation
+     data, inputs, or outputs. License key validation for the Spectre in
+     the Machine edition transmits only your license key and account
+     identifier for verification purposes. No Data Processing Agreement
+     (DPA) is applicable beyond this limited validation process.
+  b) Third-party integrations: Any third-party platforms (e.g. Telegram) used
+     to access NyxVox act as independent data controllers. Users in the EU
+     should review those platforms' GDPR compliance documentation.
+  c) Future features: Should any future version introduce data collection or
+     API connectivity, GDPR-compliant disclosures and controls will be
+     provided to users prior to use.
+  d) User rights: EU users retain all rights granted under GDPR. For any
+     privacy concerns related to NyxVox itself, contact the author directly
+     at nyxvoxai@gmail.com.
+
+--------------------------------------------------------------------------------
+14. EXPORT CONTROL
+--------------------------------------------------------------------------------
+
+This software may be subject to United States export control laws, including
+the Export Administration Regulations (EAR). By using or distributing this
+software, you agree that you will not export or re-export it, directly or
+indirectly, to any country, person, or entity in violation of US export laws.
+You are responsible for compliance with all applicable export regulations in
+your jurisdiction.
+
+--------------------------------------------------------------------------------
+15. SEVERABILITY
+--------------------------------------------------------------------------------
+
+If any provision of this agreement is found to be unenforceable or invalid
+under applicable law, that provision shall be modified to the minimum extent
+necessary to make it enforceable, or severed if modification is not possible.
+The remaining provisions shall continue in full force and effect.
+
+--------------------------------------------------------------------------------
+16. ENTIRE AGREEMENT
+--------------------------------------------------------------------------------
+
+This Agreement constitutes the entire agreement between you and the Author
+with respect to NyxVox and supersedes all prior or contemporaneous
+understandings, representations, warranties, or agreements, whether written
+or oral, relating to its subject matter. No amendment or modification of this
+Agreement shall be binding unless made in writing and acknowledged by the Author.
+
+--------------------------------------------------------------------------------
+17. NO WAIVER
+--------------------------------------------------------------------------------
+
+Failure by the Author to enforce any provision of this Agreement at any time
+shall not be construed as a waiver of the Author's right to enforce that
+provision or any other provision in the future. No waiver of any breach shall
+constitute a waiver of any subsequent breach.
+
+--------------------------------------------------------------------------------
+18. AMENDMENTS
+--------------------------------------------------------------------------------
+
+The Author reserves the right to update or modify this Agreement at any time.
+Updated versions will be distributed with new releases of the software.
+Continued use of any version of NyxVox released on or after the date of
+an updated Agreement constitutes your acceptance of the revised terms.
+Users who do not update their installation are governed by the Agreement
+version included with their installed version. It is your responsibility
+to review this Agreement periodically for changes.
+
+================================================================================
+THIRD-PARTY NOTICES
+================================================================================
+
+NyxVox includes or depends on the following third-party software components.
+Each component is governed by its own license as noted below.
+
+--------------------------------------------------------------------------------
+argon2-cffi - MIT License
+Copyright (c) 2015 Hynek Schlawack
+https://github.com/hynek/argon2-cffi
+
+--------------------------------------------------------------------------------
+beautifulsoup4 - MIT License
+Copyright (c) 2004-2023 Leonard Richardson
+https://www.crummy.com/software/BeautifulSoup/
+
+--------------------------------------------------------------------------------
+cryptography - Apache 2.0 / BSD License
+Copyright (c) Individual contributors
+https://github.com/pyca/cryptography
+
+--------------------------------------------------------------------------------
+customtkinter - MIT License
+Copyright (c) 2023 Tom Schimansky
+https://github.com/TomSchimansky/CustomTkinter
+
+--------------------------------------------------------------------------------
+ddgs (DuckDuckGo Search) - MIT License
+Copyright (c) ddgs contributors
+https://github.com/deedy5/ddgs
+Note: Used for on-demand, AI-triggered web lookups on behalf of the user for
+informational purposes only. Not used for automated data collection or
+aggregation. Users are responsible for compliance with DuckDuckGo's Terms of
+Service in their jurisdiction.
+
+--------------------------------------------------------------------------------
+faiss-cpu - MIT License
+Copyright (c) Meta Platforms, Inc.
+https://github.com/facebookresearch/faiss
+
+--------------------------------------------------------------------------------
+geocoder - Apache 2.0 License
+Copyright (c) 2013 Denis Carriere
+https://github.com/DenisCarriere/geocoder
+
+--------------------------------------------------------------------------------
+numpy - BSD 3-Clause License
+Copyright (c) 2005-2024 NumPy Developers
+https://numpy.org
+
+--------------------------------------------------------------------------------
+onnxruntime / onnxruntime-gpu (ONNX Runtime) - MIT License
+Copyright (c) Microsoft Corporation
+https://github.com/microsoft/onnxruntime
+Full license: https://github.com/microsoft/onnxruntime/blob/main/LICENSE
+
+--------------------------------------------------------------------------------
+openpyxl - MIT License
+Copyright (c) 2010 openpyxl contributors
+https://openpyxl.readthedocs.io
+
+--------------------------------------------------------------------------------
+pillow - HPND License (Historical Permission Notice and Disclaimer)
+Copyright (c) 1997-2011 by Secret Labs AB
+Copyright (c) 1995-2011 by Fredrik Lundh and contributors
+https://python-pillow.org
+Full license: https://github.com/python-pillow/Pillow/blob/main/LICENSE
+
+--------------------------------------------------------------------------------
+protobuf - BSD 3-Clause License
+Copyright (c) Google LLC
+https://github.com/protocolbuffers/protobuf
+
+--------------------------------------------------------------------------------
+psutil - BSD 3-Clause License
+Copyright (c) 2009 Jay Loden, Dave Davy, Giampaolo Rodola
+https://github.com/giampaolo/psutil
+
+--------------------------------------------------------------------------------
+pydub - MIT License
+Copyright (c) 2011 James Robert
+https://github.com/jiaaro/pydub
+
+--------------------------------------------------------------------------------
+pypdfium2 - Apache 2.0 / BSD License
+Copyright (c) pypdfium2 contributors
+https://github.com/pypdfium2-team/pypdfium2
+
+--------------------------------------------------------------------------------
+pytesseract - Apache 2.0 License
+Copyright (c) Samuel Hoffstaetter and contributors
+https://github.com/madmaze/pytesseract
+
+--------------------------------------------------------------------------------
+python-dotenv - BSD 3-Clause License
+Copyright (c) 2014 Saurabh Kumar
+https://github.com/theskumar/python-dotenv
+
+--------------------------------------------------------------------------------
+python-telegram-bot - LGPL v3 License
+Copyright (c) python-telegram-bot contributors
+https://github.com/python-telegram-bot/python-telegram-bot
+Full license: https://www.gnu.org/licenses/lgpl-3.0.html
+Note: This library is installed as a standard Python dependency and
+dynamically linked at runtime, in compliance with LGPL v3 terms.
+Users may replace it with a modified version compatible with the
+same interface.
+
+--------------------------------------------------------------------------------
+python-docx - MIT License
+Copyright (c) 2013 Steve Canny
+https://github.com/python-openxml/python-docx
+
+--------------------------------------------------------------------------------
+PyYAML - MIT License
+Copyright (c) 2017-2021 Ingy dot Net
+Copyright (c) 2006-2016 Kirill Simonov
+https://github.com/yaml/pyyaml
+
+--------------------------------------------------------------------------------
+requests - Apache 2.0 License
+Copyright (c) 2019 Kenneth Reitz
+https://github.com/psf/requests
+
+--------------------------------------------------------------------------------
+sentence-transformers - Apache 2.0 License
+Copyright (c) 2019 UKP Lab
+https://github.com/UKPLab/sentence-transformers
+
+--------------------------------------------------------------------------------
+sounddevice - MIT License
+Copyright (c) 2015-2023 Matthias Geier
+https://github.com/spatialaudio/python-sounddevice
+
+--------------------------------------------------------------------------------
+sqlcipher3 - MIT License (Python bindings)
+Copyright (c) sqlcipher3 contributors
+https://github.com/coleifer/sqlcipher3
+
+  SQLCipher (underlying engine) - BSD-style License
+  Copyright (c) 2008-2024 Zetetic LLC
+  https://www.zetetic.net/sqlcipher/
+  Full license: https://www.zetetic.net/sqlcipher/license/
+  Attribution is accessible in the application's About screen in compliance
+  with SQLCipher license terms.
+
+--------------------------------------------------------------------------------
+striprtf - MIT License
+Copyright (c) 2019 Dominic Miglar
+https://github.com/joshy/striprtf
+
+--------------------------------------------------------------------------------
+tkinterdnd2 - MIT License
+Copyright (c) 2021 pmgagne
+https://github.com/pmgagne/tkinterdnd2
+
+--------------------------------------------------------------------------------
+torch (PyTorch) - BSD 3-Clause License
+Copyright (c) 2016-present Facebook, Inc
+https://github.com/pytorch/pytorch
+Full license: https://github.com/pytorch/pytorch/blob/main/LICENSE
+
+--------------------------------------------------------------------------------
+tqdm - MIT / Mozilla Public License 2.0
+Copyright (c) 2013-present tqdm contributors
+https://github.com/tqdm/tqdm
+Note: Used unmodified. No MPL-2.0 source disclosure obligations apply.
+
+--------------------------------------------------------------------------------
+tzlocal - MIT License
+Copyright (c) 2011-2021 Lennart Regebro
+https://github.com/regebro/tzlocal
+
+--------------------------------------------------------------------------------
+xlrd - BSD 3-Clause License
+Copyright (c) 2005-2018 Stephen John Machin
+https://github.com/python-excel/xlrd
+
+--------------------------------------------------------------------------------
+BUNDLED BINARIES
+--------------------------------------------------------------------------------
+
+The following tools are bundled with NyxVox in the /runtime/ directory.
+Each is invoked as an independent process (mere aggregation, not linking).
+
+  FFmpeg - LGPL v2.1+ build
+  Copyright (c) FFmpeg contributors
+  https://ffmpeg.org
+  Bundled as standalone binary in /_internal/runtime/ffmpeg/.
+  Invoked exclusively via subprocess (mere aggregation). No static or
+  dynamic linking with NyxVox code occurs. LGPL v2.1+ obligations are
+  satisfied. Source available at https://ffmpeg.org/download.html
+
+  Ollama - MIT License
+  Copyright (c) Ollama
+  https://github.com/ollama/ollama
+  Bundled as standalone binary in /_internal/providers/ollama/binary.
+  Also used via the ollama Python library for programmatic model interaction.
+  Both components are MIT licensed and used in compliance with Ollama's terms.
+
+  Piper TTS - MIT License / GPL v3 (binary: rhasspy/piper 2023.11.14-2)
+  Copyright (c) Rhasspy
+  https://github.com/rhasspy/piper
+  Bundled as standalone binary in /_internal/runtime/piper/.
+  Called via subprocess only — no Python-level linking or DLL loading.
+  Piper source is MIT licensed. The compiled binary incorporates eSpeak-NG
+  (GPL v3) components. GPL does not propagate to NyxVox as Piper is invoked
+  as a separate process (mere aggregation). Source available at the link above.
+  
+  Voice model: en_US-libritts-high (LibriTTS)
+  License: CC BY 4.0
+  Source: https://huggingface.co/rhasspy/piper-voices
+  Attribution: LibriTTS voice model by Rhasspy, licensed under CC BY 4.0.
+
+  eSpeak-NG data - GPL v3
+  Copyright (c) eSpeak-NG Contributors
+  https://github.com/espeak-ng/espeak-ng
+  Bundled as data files only within /_internal/runtime/piper/espeak-ng-data/.
+  No eSpeak-NG executable is shipped. Engine is compiled into Piper binary.
+
+  Tesseract OCR - Apache 2.0 License
+  Copyright (c) Google LLC
+  https://github.com/tesseract-ocr/tesseract
+  Bundled as standalone binary in /_internal/runtime/tesseract/.
+  Called via pytesseract wrapper. Includes tessdata/ language files.
+
+--------------------------------------------------------------------------------
+META LLAMA 3.1 - Llama 3.1 Community License
+Copyright (c) Meta Platforms, Inc.
+https://llama.meta.com
+License: https://llama.meta.com/llama3/license/
+NyxVox bundles fine-tuned derivatives of Llama 3.1 (4B and 8B).
+These derivatives inherit the Llama 3.1 Community License. The Author
+has reviewed and complied with the terms of the Llama 3.1 Community
+License in the distribution of these derivatives. Use of NyxVox's
+Spectre in the Machine edition constitutes commercial use under the
+Llama 3.1 Community License. Users are responsible for ensuring their
+own use also complies with Meta's terms.
+
+--------------------------------------------------------------------------------
+TWEMOJI - CC BY 4.0
+Copyright (c) 2019 Twitter, Inc and other contributors
+https://github.com/twitter/twemoji
+License: https://creativecommons.org/licenses/by/4.0/
+NyxVox uses Twemoji PNG assets (72x72) for iconography.
+Attribution: Twemoji by Twitter, licensed under CC BY 4.0.
+
+--------------------------------------------------------------------------------
+ACKNOWLEDGEMENTS
+--------------------------------------------------------------------------------
+
+Special thanks to the following individuals for their outstanding work in
+AI model fine-tuning and quantization:
+
+  mradermacher (team mradermacher)
+  https://huggingface.co/mradermacher
+  Quantization of Llama 3.1 8B used in NyxVox.
+
+  SicariusSicariiStuff (Sica Rius)
+  https://huggingface.co/SicariusSicariiStuff
+  Fine-tuned Llama 3.1 models.
+  
+  Their work made Mira possible.
+
+--------------------------------------------------------------------------------
+NOTE: This third-party list is provided for informational purposes. You are
+responsible for complying with the licenses of all third-party components
+when using or distributing NyxVox.
+
+================================================================================
+ACKNOWLEDGMENT OF READING
+================================================================================
+
+By using this software, you expressly warrant that you have read, comprehended,
+and voluntarily agreed to all terms contained herein. For scholarly precedent
+on the consequences of neglecting this obligation, the Author respectfully
+directs you to South Park, Season 15, Episode 1 (2011).
+
+================================================================================
+END OF LICENSE
+================================================================================
