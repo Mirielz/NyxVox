@@ -74,7 +74,7 @@ Your own LLM, in your pocket. Mira jacks into Telegram so you can reach her from
 | NVIDIA VRAM | 4 GB | 8 GB |
 | CUDA Version | 12.6 | 12.6 |
 | RAM | 8 GB | 16 GB |
-| OS | Windows 11 | Windows 11 |
+| OS | Windows 10 | Windows 11 |
  
 ---
  
