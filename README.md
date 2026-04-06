@@ -23,6 +23,15 @@ Mira is sassy, brutally honest, and entirely yours. She runs fully local on hard
 
 ---
 
+## Zero Setup. Seriously.
+
+Download. Run installer. Talk to Mira.
+
+No terminals. No config files. No model management.
+Everything runs under the hood - just open and talk.
+
+---
+
 ## Spectre in the Machine™
 
 <p align="center">
