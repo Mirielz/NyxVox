@@ -312,6 +312,17 @@ Copyright (c) 2004-2023 Leonard Richardson
 https://www.crummy.com/software/BeautifulSoup/
 
 --------------------------------------------------------------------------------
+certifi - Mozilla Public License 2.0
+Copyright (c) Kenneth Reitz
+https://github.com/certifi/python-certifi
+Note: Used unmodified. No MPL-2.0 source disclosure obligations apply.
+
+--------------------------------------------------------------------------------
+charset-normalizer - MIT License
+Copyright (c) 2019 Ahmed TAHRI
+https://github.com/Chardet/charset_normalizer
+
+--------------------------------------------------------------------------------
 cryptography - Apache 2.0 / BSD License
 Copyright (c) Individual contributors
 https://github.com/pyca/cryptography
@@ -320,6 +331,11 @@ https://github.com/pyca/cryptography
 customtkinter - MIT License
 Copyright (c) 2023 Tom Schimansky
 https://github.com/TomSchimansky/CustomTkinter
+
+--------------------------------------------------------------------------------
+Cython - Apache 2.0 License
+Copyright (c) 2007-2024 Stefan Behnel, Robert Bradshaw, et al.
+https://github.com/cython/cython
 
 --------------------------------------------------------------------------------
 ddgs (DuckDuckGo Search) - MIT License
@@ -336,9 +352,24 @@ Copyright (c) Meta Platforms, Inc.
 https://github.com/facebookresearch/faiss
 
 --------------------------------------------------------------------------------
+filelock - The Unlicense
+Copyright (c) filelock contributors
+https://github.com/tox-dev/filelock
+
+--------------------------------------------------------------------------------
 geocoder - Apache 2.0 License
 Copyright (c) 2013 Denis Carriere
 https://github.com/DenisCarriere/geocoder
+
+--------------------------------------------------------------------------------
+hf-xet - Apache 2.0 License
+Copyright (c) HuggingFace
+https://github.com/huggingface/xet-core
+
+--------------------------------------------------------------------------------
+lxml - BSD 3-Clause License
+Copyright (c) 2004 Infrae
+https://github.com/lxml/lxml
 
 --------------------------------------------------------------------------------
 numpy - BSD 3-Clause License
@@ -357,11 +388,21 @@ Copyright (c) 2010 openpyxl contributors
 https://openpyxl.readthedocs.io
 
 --------------------------------------------------------------------------------
+packaging - Apache 2.0 / BSD 2-Clause License
+Copyright (c) Donald Stufft and individual contributors
+https://github.com/pypa/packaging
+
+--------------------------------------------------------------------------------
 pillow - HPND License (Historical Permission Notice and Disclaimer)
 Copyright (c) 1997-2011 by Secret Labs AB
 Copyright (c) 1995-2011 by Fredrik Lundh and contributors
 https://python-pillow.org
 Full license: https://github.com/python-pillow/Pillow/blob/main/LICENSE
+
+--------------------------------------------------------------------------------
+primp - MIT License
+Copyright (c) deedy5
+https://github.com/deedy5/primp
 
 --------------------------------------------------------------------------------
 protobuf - BSD 3-Clause License
@@ -372,6 +413,11 @@ https://github.com/protocolbuffers/protobuf
 psutil - BSD 3-Clause License
 Copyright (c) 2009 Jay Loden, Dave Davy, Giampaolo Rodola
 https://github.com/giampaolo/psutil
+
+--------------------------------------------------------------------------------
+pydantic - MIT License
+Copyright (c) 2017 Samuel Colvin
+https://github.com/pydantic/pydantic
 
 --------------------------------------------------------------------------------
 pydub - MIT License
@@ -415,9 +461,39 @@ Copyright (c) 2006-2016 Kirill Simonov
 https://github.com/yaml/pyyaml
 
 --------------------------------------------------------------------------------
+pywin32 - PSF License
+Copyright (c) 2000-2024 Mark Hammond
+https://github.com/mhammond/pywin32
+
+--------------------------------------------------------------------------------
+regex - Apache 2.0 License
+Copyright (c) 2010-2024 Matthew Barnett
+https://github.com/mrabarnett/mrab-regex
+
+--------------------------------------------------------------------------------
 requests - Apache 2.0 License
 Copyright (c) 2019 Kenneth Reitz
 https://github.com/psf/requests
+
+--------------------------------------------------------------------------------
+rich - MIT License
+Copyright (c) 2020 Will McGugan
+https://github.com/Textualize/rich
+
+--------------------------------------------------------------------------------
+safetensors - Apache 2.0 License
+Copyright (c) 2022 HuggingFace
+https://github.com/huggingface/safetensors
+
+--------------------------------------------------------------------------------
+scikit-learn - BSD 3-Clause License
+Copyright (c) 2007-2024 The scikit-learn developers
+https://github.com/scikit-learn/scikit-learn
+
+--------------------------------------------------------------------------------
+scipy - BSD 3-Clause License
+Copyright (c) 2001-2024 SciPy Developers
+https://github.com/scipy/scipy
 
 --------------------------------------------------------------------------------
 sentence-transformers - Apache 2.0 License
@@ -452,16 +528,46 @@ Copyright (c) 2021 pmgagne
 https://github.com/pmgagne/tkinterdnd2
 
 --------------------------------------------------------------------------------
+tokenizers - Apache 2.0 License
+Copyright (c) 2019 HuggingFace
+https://github.com/huggingface/tokenizers
+
+--------------------------------------------------------------------------------
 torch (PyTorch) - BSD 3-Clause License
 Copyright (c) 2016-present Facebook, Inc
 https://github.com/pytorch/pytorch
 Full license: https://github.com/pytorch/pytorch/blob/main/LICENSE
 
 --------------------------------------------------------------------------------
+torchaudio - BSD 2-Clause License
+Copyright (c) 2017 Facebook Inc.
+https://github.com/pytorch/audio
+
+--------------------------------------------------------------------------------
+torchvision - BSD 3-Clause License
+Copyright (c) 2016 Facebook Inc.
+https://github.com/pytorch/vision
+
+--------------------------------------------------------------------------------
+transformers - Apache 2.0 License
+Copyright (c) 2018 HuggingFace
+https://github.com/huggingface/transformers
+
+--------------------------------------------------------------------------------
 tqdm - MIT / Mozilla Public License 2.0
 Copyright (c) 2013-present tqdm contributors
 https://github.com/tqdm/tqdm
 Note: Used unmodified. No MPL-2.0 source disclosure obligations apply.
+
+--------------------------------------------------------------------------------
+typer - MIT License
+Copyright (c) 2019 Sebastián Ramírez
+https://github.com/tiangolo/typer
+
+--------------------------------------------------------------------------------
+tzdata - Apache 2.0 License
+Copyright (c) 2022 Python Software Foundation
+https://github.com/python/tzdata
 
 --------------------------------------------------------------------------------
 tzlocal - MIT License
@@ -494,6 +600,26 @@ Each is invoked as an independent process (mere aggregation, not linking).
   Bundled as standalone binary in /_internal/providers/ollama/binary.
   Also used via the ollama Python library for programmatic model interaction.
   Both components are MIT licensed and used in compliance with Ollama's terms.
+
+  NVIDIA CUDA Runtime Libraries (cublas64_*.dll, cudart64_*.dll, and related)
+  Copyright (c) NVIDIA Corporation. All rights reserved.
+  https://developer.nvidia.com/cuda-toolkit
+  License: NVIDIA End User License Agreement (EULA)
+  https://docs.nvidia.com/cuda/eula/index.html
+  Bundled as part of the Ollama binary distribution in
+  /_internal/providers/ollama/binary/. These libraries are redistributed
+  in accordance with Section 2.2 of the CUDA Toolkit Supplement to the
+  NVIDIA EULA, which permits redistribution of CUDA runtime components
+  when incorporated into a software application with material additional
+  functionality. These libraries are unmodified and accessed solely by
+  the bundled Ollama binary. This software contains software provided by
+  NVIDIA Corporation.
+
+  OpenBLAS - BSD 3-Clause License
+  Copyright (c) 2011-2024 The OpenBLAS Project
+  https://github.com/OpenMathLib/OpenBLAS
+  Bundled as part of the scipy distribution (_internal/scipy.libs/).
+  Used unmodified as scipy's bundled linear algebra backend.
 
   Piper TTS - MIT License / GPL v3 (binary: rhasspy/piper 2023.11.14-2)
   Copyright (c) Rhasspy
