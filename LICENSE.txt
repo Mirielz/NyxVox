@@ -7,7 +7,7 @@ NyxVox™, Ghost in the Wire™, and Spectre in the Machine™ are trademarks of
 Anton Khomenko.
 Product: NyxVox™
 Editions: Ghost in the Wire™ | Spectre in the Machine™
-License Version: 1.0 — 2026
+License Version: 1.0.0.2 — 2026
 
 --------------------------------------------------------------------------------
 1. GRANT OF LICENSE
@@ -464,6 +464,12 @@ https://github.com/yaml/pyyaml
 pywin32 - PSF License
 Copyright (c) 2000-2024 Mark Hammond
 https://github.com/mhammond/pywin32
+
+--------------------------------------------------------------------------------
+py7zr - LGPL-2.1
+Copyright (c) 2019-present Hiroshi Miura and contributors
+https://github.com/miurahr/py7zr
+Note: Used unmodified. No LGPL source disclosure obligations apply.
 
 --------------------------------------------------------------------------------
 regex - Apache 2.0 License
