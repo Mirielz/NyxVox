@@ -7,7 +7,7 @@ NyxVox™, Ghost in the Wire™, and Spectre in the Machine™ are trademarks of
 Anton Khomenko.
 Product: NyxVox™
 Editions: Ghost in the Wire™ | Spectre in the Machine™
-License Version: 1.0.0.2 — 2026
+License Version: 1.0.0.3 — 2026
 
 --------------------------------------------------------------------------------
 1. GRANT OF LICENSE
@@ -367,9 +367,26 @@ Copyright (c) HuggingFace
 https://github.com/huggingface/xet-core
 
 --------------------------------------------------------------------------------
+misaki - Apache 2.0 License
+Copyright (c) hexgrad
+https://github.com/hexgrad/misaki
+G2P (grapheme-to-phoneme) engine used for text-to-phoneme conversion
+in the Kokoro TTS pipeline.
+
+--------------------------------------------------------------------------------
 lxml - BSD 3-Clause License
 Copyright (c) 2004 Infrae
 https://github.com/lxml/lxml
+
+--------------------------------------------------------------------------------
+num2words - LGPL v2.1 License
+Copyright (c) num2words contributors, Savoir-faire Linux inc.
+https://github.com/savoirfairelinux/num2words
+Full license: https://www.gnu.org/licenses/lgpl-2.1.html
+Note: This library is installed as a standard Python dependency and
+dynamically linked at runtime, in compliance with LGPL v2.1 terms.
+Users may replace it with a modified version compatible with the
+same interface.
 
 --------------------------------------------------------------------------------
 numpy - BSD 3-Clause License
@@ -506,6 +523,16 @@ Copyright (c) 2015-2023 Matthias Geier
 https://github.com/spatialaudio/python-sounddevice
 
 --------------------------------------------------------------------------------
+spaCy - MIT License
+Copyright (C) 2016-2024 ExplosionAI GmbH, 2016 spaCy GmbH, 2015 Matthew Honnibal
+https://github.com/explosion/spaCy
+
+Includes spaCy language model:
+  en-core-web-sm 3.8.0 - MIT License
+  Copyright (C) 2016-2024 ExplosionAI GmbH
+  https://github.com/explosion/spacy-models
+
+--------------------------------------------------------------------------------
 sqlcipher3 - MIT License (Python bindings)
 Copyright (c) sqlcipher3 contributors
 https://github.com/coleifer/sqlcipher3
@@ -521,6 +548,11 @@ https://github.com/coleifer/sqlcipher3
 striprtf - MIT License
 Copyright (c) 2019 Dominic Miglar
 https://github.com/joshy/striprtf
+
+--------------------------------------------------------------------------------
+thinc - MIT License
+Copyright (c) 2017 ExplosionAI GmbH
+https://github.com/explosion/thinc
 
 --------------------------------------------------------------------------------
 tkinterdnd2 - MIT License
@@ -621,25 +653,18 @@ Each is invoked as an independent process (mere aggregation, not linking).
   Bundled as part of the scipy distribution (_internal/scipy.libs/).
   Used unmodified as scipy's bundled linear algebra backend.
 
-  Piper TTS - MIT License / GPL v3 (binary: rhasspy/piper 2023.11.14-2)
-  Copyright (c) Rhasspy
-  https://github.com/rhasspy/piper
-  Bundled as standalone binary in /_internal/runtime/piper/.
-  Called via subprocess only — no Python-level linking or DLL loading.
-  Piper source is MIT licensed. The compiled binary incorporates eSpeak-NG
-  (GPL v3) components. GPL does not propagate to NyxVox as Piper is invoked
-  as a separate process (mere aggregation). Source available at the link above.
-  
-  Voice model: en_US-libritts-high (LibriTTS)
-  License: CC BY 4.0
-  Source: https://huggingface.co/rhasspy/piper-voices
-  Attribution: LibriTTS voice model by Rhasspy, licensed under CC BY 4.0.
-
-  eSpeak-NG data - GPL v3
+  eSpeak-NG - GPL v3
   Copyright (c) eSpeak-NG Contributors
   https://github.com/espeak-ng/espeak-ng
-  Bundled as data files only within /_internal/runtime/piper/espeak-ng-data/.
-  No eSpeak-NG executable is shipped. Engine is compiled into Piper binary.
+  Bundled as standalone executable in /_internal/runtime/eSpeak NG/.
+  Invoked exclusively via subprocess (mere aggregation, not linking).
+  GPL does not propagate to NyxVox. Source available at the link above.
+
+  Voice model: Kokoro-82M-v1.0-ONNX
+  License: Apache 2.0
+  Source: https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX
+  Attribution: Kokoro-82M originally by hexgrad, ONNX conversion by onnx-community.
+  Bundled in /_internal/modules/tts/kokoro_tts/models/.
 
   Tesseract OCR - Apache 2.0 License
   Copyright (c) Google LLC
