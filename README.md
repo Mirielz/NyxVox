@@ -101,7 +101,7 @@ Ask her anything. She'll go there. Mira doesn't dodge philosophical questions, m
 | Persistent memory | ✅ | ✅ |
 | Web search (Mira-driven) | ✅ | ✅ |
 | Telegram integration | ✅ | ✅ |
-| TTS quality | Human-like | Human-like |
+| Human-like TTS quality | ✅ | ✅ |
 | Document reading | ✅ | ✅ |
 | Neverending chat | ✅ | ✅ |
 | NSFW mode | ❌ | ✅ |
