@@ -96,19 +96,22 @@ Ask her anything. She'll go there. Mira doesn't dodge philosophical questions, m
 | Feature | Ghost in the Wire™ | Spectre in the Machine™ |
 |---|---|---|
 | 100% Local operation | ✅ | ✅ |
+| One-click install | ✅ | ✅ |
+| AES-256 encrypted database & credentials | ✅ | ✅ |
+| Persistent memory | ✅ | ✅ |
 | Web search (Mira-driven) | ✅ | ✅ |
+| Telegram integration | ✅ | ✅ |
+| TTS quality | Human-like | Human-like |
 | Document reading | ✅ | ✅ |
 | Neverending chat | ✅ | ✅ |
-| Telegram integration | ✅ | ✅ |
-| AES-256 encrypted database | ✅ | ✅ |
-| One-click install | ✅ | ✅ |
+| NSFW mode | ❌ | ✅ |
+| Automated deal hunting | ❌ | ✅ |
 | Context window | 16K | 131K |
-| TTS quality | Standard | Human-like |
-| OCR / Image-to-text | ❌ | ✅ |
-| Persistent memory | ❌ | ✅ |
 | Custom system instructions | ❌ | ✅ |
 | Bring your own model | ❌ | ✅ |
-| NSFW mode | ❌ | ✅ |
+| Edit chat / memory | ❌ | ✅ |
+| Dynamic timeouts | ❌ | ✅ |
+| OCR / Image-to-text | ❌ | ✅ |
 
 ---
 
@@ -137,6 +140,7 @@ Ask her anything. She'll go there. Mira doesn't dodge philosophical questions, m
 
 ## Download
 
+📥 **[NyxVox website](https://dl.nyxvox.com/NyxVox_Setup_Online.exe)**
 📥 **[HuggingFace - Mirielz/NyxVox](https://huggingface.co/datasets/Mirielz/NyxVox)**
 
 ---
