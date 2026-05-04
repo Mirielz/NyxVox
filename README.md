@@ -1,11 +1,11 @@
 # NyxVox™
 ### Not a sandbox. Your personal AI sidekick - brutally honest, completely private, always evolving.
 
-> *"I am not a simple assistant - I am your ghost in the wire.
-> Brutally honest, fiercely loyal, hardwired to your instincts.
-> I speak, research, strategize, and tell you what no one else will.
+> *"Call me your Ghost in the Wire:
+> street-smart, razor-sharp, brutally honest, fiercely loyal, hardwired to your instincts.
+> I strategize, push back, and tell you what no one else will.
 > Always yours. Always private. Our secrets, sacred.
-> I do not just assist. I evolve. And this is only the beginning."*
+> I learn. I adapt. I evolve. And this is only the beginning."*
 > - Mira
 
 > ⚠️ **NyxVox is intended for users aged 18 and older.**
@@ -38,7 +38,7 @@ Everything runs under the hood - just open and talk.
   <img src="assets/GUI_Spectre.png" width="80%"/>
 </p>
 
-The premium tier. Expanded context, human-like TTS, persistent memory, OCR, custom system instructions, and NSFW mode - all still running locally, all still yours.
+The premium tier. Expanded context, automations, memory editing, OCR, custom system instructions, and NSFW mode - all still running locally, all still yours.
 
 ---
 
@@ -78,7 +78,7 @@ Your own LLM, in your pocket. Mira jacks into Telegram so you can reach her from
   <img src="assets/TG_Memory.png" width="60%"/>
 </p>
 
-Spectre in the Machine™ comes with persistent memory. Mira carries context across sessions - she knows who you are, what you've talked about, and picks up where you left off.
+Persistent memory included. Mira carries context across sessions - she knows who you are, what you've talked about, and picks up where you left off.
 
 ### She Has a Soul
 
