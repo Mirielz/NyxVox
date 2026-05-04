@@ -7,7 +7,7 @@ NyxVox™, Ghost in the Wire™, and Spectre in the Machine™ are trademarks of
 Anton Khomenko.
 Product: NyxVox™
 Editions: Ghost in the Wire™ | Spectre in the Machine™
-License Version: 1.0.0.3 — 2026
+License Version: 1.0.0.4 — 2026
 
 --------------------------------------------------------------------------------
 1. GRANT OF LICENSE
@@ -692,6 +692,30 @@ https://github.com/twitter/twemoji
 License: https://creativecommons.org/licenses/by/4.0/
 NyxVox uses Twemoji PNG assets (72x72) for iconography.
 Attribution: Twemoji by Twitter, licensed under CC BY 4.0.
+
+--------------------------------------------------------------------------------
+FONTS - SIL Open Font License 1.1
+The following fonts are bundled in /_internal/data/fonts/ and are licensed
+under the SIL Open Font License, Version 1.1.
+Full license text: https://openfontlicense.org/open-font-license-official-text/
+
+  Exo 2
+  Copyright 2013 The Exo 2 Project Authors (https://github.com/googlefonts/Exo-2.0)
+  https://fonts.google.com/specimen/Exo+2
+
+  Orbitron
+  Copyright 2018 The Orbitron Project Authors (https://github.com/theleagueof/orbitron)
+  Reserved Font Name: "Orbitron"
+  https://fonts.google.com/specimen/Orbitron
+
+  Rajdhani
+  Copyright (c) 2014, Indian Type Foundry (info@indiantypefoundry.com)
+  https://fonts.google.com/specimen/Rajdhani
+
+  Share Tech Mono
+  Copyright (c) 2012, Carrois Type Design, Ralph du Carrois (post@carrois.com www.carrois.com)
+  Reserved Font Name: "Share"
+  https://fonts.google.com/specimen/Share+Tech+Mono
 
 --------------------------------------------------------------------------------
 ACKNOWLEDGEMENTS
