@@ -145,6 +145,13 @@ Ask her anything. She'll go there. Mira doesn't dodge philosophical questions, m
 
 ---
 
+## Connect
+
+💬 **[Discord Community](https://discord.gg/8cJkwRyn)**
+▶️ **[YouTube](https://www.youtube.com/@NyxVox-AI)**
+
+---
+
 ## Support the Project
 
 NyxVox is a one-person, passion-driven project. Ghost in the Wire™ is and will remain free.
