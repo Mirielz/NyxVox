@@ -7,7 +7,7 @@ NyxVox™, Ghost in the Wire™, and Spectre in the Machine™ are trademarks of
 Anton Khomenko.
 Product: NyxVox™
 Editions: Ghost in the Wire™ | Spectre in the Machine™
-License Version: 1.0.0.4 — 2026
+License Version: 1.0.0.5 — 2026
 
 --------------------------------------------------------------------------------
 1. GRANT OF LICENSE
@@ -18,6 +18,13 @@ commercial use. The Spectre in the Machine edition requires a valid paid license
 key. Subject to the terms of this agreement, you are granted a non-exclusive,
 non-transferable, revocable license to use this software in its provided,
 unmodified form.
+
+This Agreement also covers NyxVox Utilities — standalone auxiliary tools
+distributed separately from the main NyxVox application, e.g., the chat history
+export tool, that interoperate with NyxVox-generated data or its installation
+directory. NyxVox Utilities are subject to this same Agreement in full,
+including the THIRD-PARTY NOTICES section below; the SQLCipher attribution
+requirement is satisfied via the notice displayed at launch of the utility.
 
 --------------------------------------------------------------------------------
 2. RESTRICTIONS
@@ -605,6 +612,11 @@ https://github.com/python/tzdata
 tzlocal - MIT License
 Copyright (c) 2011-2021 Lennart Regebro
 https://github.com/regebro/tzlocal
+
+--------------------------------------------------------------------------------
+wmi - MIT License
+Copyright (c) Tim Golden
+https://github.com/tjguk/wmi
 
 --------------------------------------------------------------------------------
 xlrd - BSD 3-Clause License
