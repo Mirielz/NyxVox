@@ -7,7 +7,7 @@ NyxVox™, Ghost in the Wire™, and Spectre in the Machine™ are trademarks of
 Anton Khomenko.
 Product: NyxVox™
 Editions: Ghost in the Wire™ | Spectre in the Machine™
-License Version: 1.0.0.5 — 2026
+License Version: 1.0.0.6 — 2026
 
 --------------------------------------------------------------------------------
 1. GRANT OF LICENSE
@@ -309,6 +309,11 @@ NyxVox includes or depends on the following third-party software components.
 Each component is governed by its own license as noted below.
 
 --------------------------------------------------------------------------------
+accelerate - Apache License 2.0
+Copyright (c) The HuggingFace Team
+https://github.com/huggingface/accelerate
+
+--------------------------------------------------------------------------------
 argon2-cffi - MIT License
 Copyright (c) 2015 Hynek Schlawack
 https://github.com/hynek/argon2-cffi
@@ -374,11 +379,27 @@ Copyright (c) HuggingFace
 https://github.com/huggingface/xet-core
 
 --------------------------------------------------------------------------------
+huggingface_hub - Apache License 2.0
+Copyright (c) The HuggingFace Team
+https://github.com/huggingface/huggingface_hub
+
+--------------------------------------------------------------------------------
+jinja2 - BSD 3-Clause License
+Copyright (c) 2007 Pallets
+https://jinja.palletsprojects.com/
+
+--------------------------------------------------------------------------------
 misaki - Apache 2.0 License
 Copyright (c) hexgrad
 https://github.com/hexgrad/misaki
 G2P (grapheme-to-phoneme) engine used for text-to-phoneme conversion
 in the Kokoro TTS pipeline.
+
+--------------------------------------------------------------------------------
+multiprocess - BSD 3-Clause License
+Copyright (c) 2008-2016 California Institute of Technology
+Copyright (c) 2016-2026 The Uncertainty Quantification Foundation
+https://github.com/uqfoundation/multiprocess
 
 --------------------------------------------------------------------------------
 lxml - BSD 3-Clause License
@@ -462,6 +483,11 @@ https://github.com/madmaze/pytesseract
 python-dotenv - BSD 3-Clause License
 Copyright (c) 2014 Saurabh Kumar
 https://github.com/theskumar/python-dotenv
+
+--------------------------------------------------------------------------------
+python-jobspy - MIT License
+Copyright (c) 2023 Cullen Watson
+https://github.com/speedyapply/JobSpy
 
 --------------------------------------------------------------------------------
 python-telegram-bot - LGPL v3 License
@@ -555,6 +581,11 @@ https://github.com/coleifer/sqlcipher3
 striprtf - MIT License
 Copyright (c) 2019 Dominic Miglar
 https://github.com/joshy/striprtf
+
+--------------------------------------------------------------------------------
+sympy - BSD 3-Clause License
+Copyright (c) 2006-2026 SymPy Development Team
+https://www.sympy.org/
 
 --------------------------------------------------------------------------------
 thinc - MIT License
