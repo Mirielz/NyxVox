@@ -374,6 +374,11 @@ Copyright (c) 2013 Denis Carriere
 https://github.com/DenisCarriere/geocoder
 
 --------------------------------------------------------------------------------
+geopy - MIT License
+Copyright (c) 2006-2018 geopy authors (see AUTHORS)
+https://github.com/geopy/geopy
+
+--------------------------------------------------------------------------------
 hf-xet - Apache 2.0 License
 Copyright (c) HuggingFace
 https://github.com/huggingface/xet-core
