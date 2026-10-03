@@ -210,6 +210,7 @@ based on AI-generated content. See LICENSE.txt for full terms.
 Results from skills that search or scrape the internet (e.g. job listings)
 come from third-party sites and may be inaccurate, incomplete, or outdated.
 Verify details with the original source.
+
 ---
 
 ## Contributing & Bug Reports
