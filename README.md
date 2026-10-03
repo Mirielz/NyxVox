@@ -20,13 +20,16 @@
 | One-click install | ✅ | ✅ |
 | AES-256 encrypted database & credentials | ✅ | ✅ |
 | Persistent memory | ✅ | ✅ |
+| Agentic framework | ✅ | ✅ |
+| Skill: Job search (Indeed, LinkedIn, job boards) | ✅ | ✅ |
 | Web search (Mira-driven) | ✅ | ✅ |
+| Free proxy routing for webscraping | ✅ | ✅ |
 | Telegram integration | ✅ | ✅ |
 | Human-like TTS quality | ✅ | ✅ |
 | Document reading | ✅ | ✅ |
 | Neverending chat | ✅ | ✅ |
 | NSFW mode | ❌ | ✅ |
-| Automated deal hunting | ❌ | ✅ |
+| Skill: Deal hunting | ❌ | ✅ |
 | Context window | 16K | 131K |
 | Custom system instructions | ❌ | ✅ |
 | Bring your own model | ❌ | ✅ |
@@ -71,19 +74,24 @@ No external model download required.
 - ⚡ One-click install — nothing to configure, it just works
 - 🔐 AES-256 encrypted database and credentials
 - 💾 Persistent memory — Mira remembers you, your preferences, and past conversations across sessions
-- 🌍 Network used only for: web search, Telegram shell, location, and optional ollama engine updates
+- 🤖 Agentic framework — Mira-driven state machine with automation
+- 💼 Job search skill — searches Indeed, LinkedIn and other job boards for you
+- 🌍 Network used only for: web search, Telegram shell, location, optional ollama engine updates, and webscraping
 - 🌐 Mira searches when she needs to (and she won't spiral)
+- 🕶️ Free proxy routing for webscraping — anonymous, fast, HTTPS-encrypted
 - 📱 Telegram integration — talk to your own LLM from anywhere
 - 🗣️ Human-like TTS
 - 📄 Reads almost every document format
 - 💬 Neverending chat — conversations never get cut off, older messages gracefully fade to fit context
+
+> ⚠️ **Internet-search skills notice:** Webscraping uses only the details you provide (e.g. job title, location, keywords) to target sites via free proxies.
 
 **Spectre in the Machine™ adds:**
 - 🔞 NSFW mode — Mira has no limits. None.
 - 🛒 Automated deal hunting — Mira scans for deals on a schedule and notifies you via Telegram when she finds something worth your attention
 - 🧠 131K token context (vs 16K free), no OOM
 - ⚙️ Custom system instructions
-- 🤖 Bring your own model
+- 💽 Bring your own model
 - ✏️ Chat & memory editing — modify, correct, or prune Mira's memory and conversation history
 - ⏱️ Smart dynamic timeouts that adapt to context
 - 👁️ Image-to-text / OCR
@@ -116,7 +124,9 @@ No external model download required.
 | 📚 | Attach documents |
 | 📡 | Share feedback |
 | 💜 | Support NyxVox |
+| 🧠 | Toggle RAG memory on/off |
 | 🔊 | Toggle TTS on/off |
+| 🔄 | Reset chat and tokens |
 | `Enter` | Send message |
 | `Shift+Enter` | New line |
 | `Esc` | Exit fullscreen |
@@ -137,11 +147,28 @@ Use `/help` to see all available commands.
 **Q: Does NyxVox send any data to the internet?**
 A: Your data never leaves your machine. NyxVox uses the internet only for:
 web search queries (DDGS), Telegram shell integration, IP-based location
-(geocoder), and optional model updates. No conversation history, personal
-data, or credentials are ever transmitted.
+(geocoder), optional model updates, and skill-driven web scraping. Skills
+such as job search send only the search keywords you provide (e.g. job
+title, location) to the target sites through free proxies. To set these
+up, NyxVox uses public proxy lists and verifies proxies to confirm they
+don't reveal your real IP. These requests run only when a skill is started
+and contain no personal data. No conversation history, personal data, or
+credentials are ever transmitted.
 
 **Q: Do I need an API key for anything?**
 A: No. NyxVox is fully self-contained. No API keys required.
+
+**Q: What is the agentic framework, and what does it send to the internet?**
+A: The agentic framework is an LLM-driven state machine. Each skill is a
+series of steps, such as collecting details from you, confirming them, or
+making a decision, and some skills end by handing off to an automation.
+The first skill is job search: Mira collects your desired position and
+resume, confirms them with you, then starts an automated search of sites
+like Indeed and LinkedIn. Requests are routed through free proxies that
+are checked to be anonymous, fast, and HTTPS-encrypted. No API keys or
+paid services are required. Only the search details you provide are sent,
+and only after you confirm. Your resume, chat history, memory, and
+credentials are never transmitted.
 
 **Q: Can I run this on CPU only?**
 A: Technically yes, but it is not supported or recommended. Performance will
@@ -180,6 +207,9 @@ NyxVox incorporates AI-generated content including voice, visuals, and text.
 AI outputs may be inaccurate. Users are solely responsible for decisions made
 based on AI-generated content. See LICENSE.txt for full terms.
 
+Results from skills that search or scrape the internet (e.g. job listings)
+come from third-party sites and may be inaccurate, incomplete, or outdated.
+Verify details with the original source.
 ---
 
 ## Contributing & Bug Reports
