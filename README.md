@@ -42,7 +42,7 @@
 
 > ⚠️ **Antivirus notice:** Some antivirus engines may flag the installer as suspicious.
 > This is a known false positive common with Inno Setup packaged applications.
-> NyxVox has been scanned and cleared by ClamAV and 73/76 VirusTotal engines.
+> The current VirusTotal report for the latest release is linked at [nyxvox.com/#download](https://nyxvox.com/#download).
 > If concerned, you can verify the file yourself on [VirusTotal](https://www.virustotal.com).
 ---
 
@@ -87,7 +87,7 @@ No external model download required.
 > ⚠️ **Internet-search skills notice:** Webscraping uses only the details you provide (e.g. job title, location, keywords) to target sites via free proxies.
 
 **Spectre in the Machine™ adds:**
-- 🔞 NSFW mode — Mira has no limits. None.
+- 🔞 NSFW mode — Frank talk. 18+.
 - 🛒 Automated deal hunting — Mira scans for deals on a schedule and notifies you via Telegram when she finds something worth your attention
 - 🧠 131K token context (vs 16K free), no OOM
 - ⚙️ Custom system instructions
@@ -147,7 +147,7 @@ Use `/help` to see all available commands.
 **Q: Does NyxVox send any data to the internet?**
 A: Your data never leaves your machine. NyxVox uses the internet only for:
 web search queries (DDGS), Telegram shell integration, IP-based location
-(geocoder), optional model updates, and skill-driven web scraping. Skills
+(ipinfo.io), optional model updates, and skill-driven web scraping. Skills
 such as job search send only the search keywords you provide (e.g. job
 title, location) to the target sites through free proxies. To set these
 up, NyxVox uses public proxy lists and verifies proxies to confirm they
