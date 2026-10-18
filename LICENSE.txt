@@ -7,7 +7,7 @@ NyxVox™, Ghost in the Wire™, and Spectre in the Machine™ are trademarks of
 Anton Khomenko.
 Product: NyxVox™
 Editions: Ghost in the Wire™ | Spectre in the Machine™
-License Version: 1.0.0.6 — 2026
+License Version: 1.0.0.7 — 2026
 
 --------------------------------------------------------------------------------
 1. GRANT OF LICENSE
@@ -718,6 +718,13 @@ Each is invoked as an independent process (mere aggregation, not linking).
   Source: https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX
   Attribution: Kokoro-82M originally by hexgrad, ONNX conversion by onnx-community.
   Bundled in /_internal/modules/tts/kokoro_tts/models/.
+
+  Embedding model: granite-embedding-311m-multilingual-r2
+  Copyright (c) IBM Corporation
+  License: Apache 2.0
+  Source: https://huggingface.co/ibm-granite/granite-embedding-311m-multilingual-r2
+  Attribution: Granite Embedding by IBM Research (ibm-granite).
+  Bundled in /_internal/modules/memory_manager/models/models--ibm-granite--granite-embedding-311m-multilingual-r2/.
 
   Tesseract OCR - Apache 2.0 License
   Copyright (c) Google LLC
